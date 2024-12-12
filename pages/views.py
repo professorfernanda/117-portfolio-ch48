@@ -7,4 +7,4 @@ def home_view(request):
 
 
 def about_view(request):
-    return render(request, 'pages/about.html')
+    return render(request, 'pages/about.html')                                 
